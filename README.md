@@ -1,2 +1,1 @@
-# SugarLabs
-Task for Google Code-in 2019
+# My First Repository
